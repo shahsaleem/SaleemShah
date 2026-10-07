@@ -8,7 +8,7 @@
 
             <!-- Logo Image -->
 
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/index.php">
                 <img src="./includes/logo.png" alt="Saleem Academy" class="brand-logo-img">
 
                 <div class="brand-text">

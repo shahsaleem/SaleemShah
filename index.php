@@ -88,7 +88,7 @@ include_once 'includes/header.php';
 
         <!-- Paper Schemes -->
         <div class="col-6 col-md-3">
-            <a href="/papers-schemes.php" class="edu-btn papers-btn">
+            <a href="/Pairing_Schemes.php" class="edu-btn papers-btn">
                 <i class="bi bi-file-earmark-text-fill"></i>
                 <span>Paper Schemes</span>
             </a>
@@ -96,7 +96,7 @@ include_once 'includes/header.php';
 
         <!-- Notes -->
         <div class="col-6 col-md-3">
-            <a href="/notes.php" class="edu-btn notes-btn">
+            <a href="/9th_class_notes.php" class="edu-btn notes-btn">
                 <i class="bi bi-journal-text"></i>
                 <span>Notes</span>
             </a>
