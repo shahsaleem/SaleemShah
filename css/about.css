@@ -1,0 +1,135 @@
+ /* Main Card */
+        .instructor-card {
+            background: #ffffff;
+            border-radius: 24px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+            padding: 48px;
+        }
+
+        /* Instructor Image */
+        .instructor-image {
+            width: 190px;
+            height: 220px;
+            object-fit: cover;
+            border-radius: 16px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Left Column */
+        .instructor-name {
+            font-size: 25px;
+            font-weight: 800;
+            color: #071b3a;
+            margin-top: 18px;
+            margin-bottom: 2px;
+        }
+
+        .instructor-role {
+            color: #155eef;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        /* Small Badge */
+        .certified-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            padding: 7px 14px;
+            border-radius: 30px;
+            background: #edf5ff;
+            color: #155eef;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+        }
+
+        .certified-badge i {
+            color: #ffb400;
+            font-size: 16px;
+        }
+
+        /* Heading */
+        .instructor-heading {
+            font-size: 32px;
+            font-weight: 800;
+            color: #071b3a;
+            margin-top: 18px;
+            margin-bottom: 18px;
+        }
+
+        /* Description */
+        .instructor-description {
+            color: #4d6078;
+            font-size: 16px;
+            line-height: 1.8;
+            margin-bottom: 0;
+            max-width: 760px;
+        }
+
+        /* Tablet */
+        @media (max-width: 991.98px) {
+
+            .instructor-card {
+                padding: 35px;
+            }
+
+            .instructor-heading {
+                font-size: 28px;
+            }
+
+            .instructor-description {
+                font-size: 15px;
+            }
+        }
+
+        /* Mobile */
+        @media (max-width: 767.98px) {
+
+            .instructor-card {
+                padding: 30px 20px;
+                border-radius: 18px;
+            }
+
+            .instructor-image {
+                width: 170px;
+                height: 200px;
+            }
+
+            .instructor-name {
+                font-size: 23px;
+            }
+
+            .instructor-heading {
+                font-size: 26px;
+                margin-top: 16px;
+            }
+
+            .instructor-description {
+                font-size: 15px;
+                line-height: 1.7;
+            }
+        }
+
+        /* Small Mobile */
+        @media (max-width: 400px) {
+
+            .instructor-card {
+                padding: 25px 15px;
+            }
+
+            .instructor-image {
+                width: 150px;
+                height: 180px;
+            }
+
+            .certified-badge {
+                font-size: 11px;
+                padding: 6px 10px;
+            }
+
+            .instructor-heading {
+                font-size: 23px;
+            }
+        }
+    

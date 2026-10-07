@@ -1,0 +1,149 @@
+.edu-btn {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 190px;
+
+    padding: 25px 15px;
+
+    border-radius: 22px;
+
+    color: #ffffff;
+    text-decoration: none;
+
+    border: none;
+
+    /* 3D depth */
+    box-shadow:
+        0 10px 0 rgba(0, 0, 0, 0.15),
+        0 15px 25px rgba(0, 0, 0, 0.18);
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+/* Big icon */
+.edu-btn i {
+    font-size: 65px;
+    line-height: 1;
+
+    margin-bottom: 18px;
+
+    filter: drop-shadow(0 4px 3px rgba(0, 0, 0, 0.25));
+
+    transition: transform 0.3s ease;
+}
+
+/* Button text */
+.edu-btn span {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+
+    text-shadow:
+        0 2px 3px rgba(0, 0, 0, 0.25);
+}
+
+
+/* =========================
+   3D HOVER
+========================= */
+
+.edu-btn:hover {
+    color: #ffffff;
+
+    transform: translateY(-8px);
+
+    box-shadow:
+        0 18px 0 rgba(0, 0, 0, 0.15),
+        0 25px 35px rgba(0, 0, 0, 0.22);
+}
+
+.edu-btn:hover i {
+    transform: scale(1.15) translateY(-3px);
+}
+
+
+/* =========================
+   PRESS EFFECT
+========================= */
+
+.edu-btn:active {
+    transform: translateY(6px);
+
+    box-shadow:
+        0 4px 0 rgba(0, 0, 0, 0.15),
+        0 7px 12px rgba(0, 0, 0, 0.15);
+}
+
+
+/* =========================
+   COLORS
+========================= */
+
+.home-btn {
+    background: linear-gradient(
+        145deg,
+        #20c997,
+        #087f5b
+    );
+}
+
+.books-btn {
+    background: linear-gradient(
+        145deg,
+        #4dabf7,
+        #1864ab
+    );
+}
+
+.papers-btn {
+    background: linear-gradient(
+        145deg,
+        #845ef7,
+        #5f3dc4
+    );
+}
+
+.notes-btn {
+    background: linear-gradient(
+        145deg,
+        #ffb347,
+        #e67700
+    );
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 576px) {
+
+    .edu-btn {
+        height: 155px;
+        border-radius: 18px;
+
+        padding: 18px 10px;
+
+        box-shadow:
+            0 7px 0 rgba(0, 0, 0, 0.15),
+            0 10px 18px rgba(0, 0, 0, 0.16);
+    }
+
+    .edu-btn i {
+        font-size: 48px;
+        margin-bottom: 12px;
+    }
+
+    .edu-btn span {
+        font-size: 16px;
+    }
+
+}
