@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>9th Class English Notes PDF | Punjab Board | Saleem Academy</title>
 
-<meta name="description" content="Download 9th Class English Notes PDF for Punjab Board. Get chapter-wise notes, questions and answers, summaries, grammar, essays, letters, applications, translations, MCQs, and exam preparation material for Class 9 English.">
+<meta name="description" content="Download 9th Class All Notes PDF for Punjab Board. Get chapter-wise notes, questions and answers, summaries, grammar, essays, letters, applications, translations, MCQs, and exam preparation material for Class 9 English.">
 
 <meta name="keywords" content="9th Class English Notes, Class 9 English Notes PDF, 9th English Notes Punjab Board, 9th Class English Book Notes, 9th Class English Chapter Wise Notes, 9th English Questions and Answers, 9th Class English Summaries, 9th Class English Grammar, 9th Class English MCQs, 9th Class English Translation, 9th Class English Essays, 9th Class English Letters, 9th Class English Applications, 9th Class English Solved Exercises, 9th Class English Important Questions, 9th English Exam Preparation, Punjab Board Class 9 English Notes, 9th Class English PDF Download, Matric Part 1 English Notes, Saleem Academy">
     <!-- meta tags ends here -->
@@ -113,8 +113,19 @@
 
 
     <!-- content ends here -->
+<!-- Ads content -->
+<script>
+  atOptions = {
+    'key' : '7efd9bf026e297899a774c374305ee53',
+    'format' : 'iframe',
+    'height' : 600,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/7efd9bf026e297899a774c374305ee53/invoke.js"></script>
 
-
+<!-- Ads content ends here -->
     <!-- =========================
          FOOTER
     ========================== -->

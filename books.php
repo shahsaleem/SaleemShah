@@ -79,6 +79,20 @@ Past Papers, Punjab Board Past Papers,Class 9 Past Papers,Class 10 Past Papers,M
 
 
     <!-- MAin Content Ends here -->
+
+    <!-- ads starts here -->
+<script>
+  atOptions = {
+    'key' : '7efd9bf026e297899a774c374305ee53',
+    'format' : 'iframe',
+    'height' : 600,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/7efd9bf026e297899a774c374305ee53/invoke.js"></script>
+
+    <!-- ads ends here -->
     <!-- =========================
          FOOTER
     ========================== -->
