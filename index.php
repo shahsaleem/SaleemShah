@@ -9,10 +9,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saleem Academy</title>
+<!-- Primary SEO Meta Tags -->
+<title>Saleem Academy | Class 9th & 10th Notes, Books, Papers & Study Helping content</title>
+
+<meta name="description" content="Saleem Academy provides free 9th and 10th class notes, textbooks, past papers, paper schemes, exam preparation resources, and online tuition for Pakistani students.">
+
+<meta name="keywords" content="Saleem Academy, SaleemAcademy.pk, 9th class notes, 10th class notes, 9th class books, 10th class books, matric notes, matric past papers, 9th class past papers, 10th class past papers, paper schemes, exam preparation Pakistan, Punjab board notes, educational resources Pakistan, online tuition Pakistan, student aid, free study material, textbook PDFs, class 9 English notes, class 10 English notes">
+
+<meta name="author" content="Saleem Academy">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="language" content="English">
+<meta name="theme-color" content="#059669">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://saleemacademy.pk/">
+
+<!-- Open Graph / Facebook / WhatsApp Social Preview -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Saleem Academy">
+<meta property="og:title" content="Saleem Academy | Free Notes, Books & Paper Schemes">
+<meta property="og:description" content="Explore 9th and 10th class notes, textbooks, past papers, paper schemes, and exam preparation resources for Pakistani students.">
+<meta property="og:url" content="https://saleemacademy.pk/">
+<meta property="og:image" content="https://saleemacademy.pk/includes/logo.png">
+<meta property="og:image:alt" content="Saleem Academy educational resources for Pakistani students">
+<meta property="og:locale" content="en_PK">
+
+<!-- Twitter / X Social Preview -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Saleem Academy | Notes, Books & Exam Preparation">
+<meta name="twitter:description" content="Find class 9 and 10 notes, textbooks, past papers, paper schemes, and study resources at Saleem Academy.">
+<meta name="twitter:image" content="https://saleemacademy.pk/includes/logo.png">
+<meta name="twitter:image:alt" content="Saleem Academy educational resources">
+
+<!-- Optional Browser and Mobile Metadata -->
+<meta name="application-name" content="Saleem Academy">
     <!-- meta tags ends here -->
-
-
     <!-- favicon -->
     <link rel="shortcut icon" href="./includes/logo.png" type="image/x-icon">
     <!-- urdu fonts -->
