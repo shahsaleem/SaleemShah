@@ -26,7 +26,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- my header footer css -->
     <link rel="stylesheet" href="./css/style.css">
-
+    <!-- pages own css -->
+<link rel="stylesheet" href="./css/10thpapers.css">
 
 </head>
 
@@ -42,13 +43,84 @@
 
 
     <!-- =========================
-         DEMO CONTENT
+         MAIN CONTENT
     ========================== -->
-
-    <!-- Our Team Section -->
     <H1 id="teamhead">10th Class Papers</H1>
+
+    <!-- table  -->
   
 
+<body class="bg-light">
+
+  <div class="container">
+    <div class="sa-table-wrapper">
+      <h4 class="text-center fw-bold mb-4"
+          style="color: #4338ca;">
+        10th Class Chapterwise Test Series
+      </h4>
+
+      <div class="table-responsive">
+        <table class="table sa-colourful-table">
+          <thead>
+            <tr>
+              <th scope="col">Subjects</th>
+              <th scope="col">Chapter Wise Papers</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr><td>Tarjma Quran</td><td>
+<a href="https://drive.google.com/file/d/1o2dyYCkaDMuvlKNSiIJo7C27YwyixGmd/view?usp=drive_link"
+   class="btn btn-danger"
+   download>
+   <i class="bi bi-download me-2"></i>
+   Download Now
+</a>
+</td></tr>
+
+            <tr><td>Physics</td><td>
+                <a href="https://drive.google.com/file/d/18yucKJTBycTt6CLl-Q8yxS_7oyaxiq8K/view?usp=drive_link"
+   class="btn btn-success"
+   download>
+   <i class="bi bi-download me-2"></i>
+   Download Now
+</a></td></tr>
+
+            <tr><td>Pak Studies</td><td>
+                           <a href="https://drive.google.com/file/d/1qVOdidUS5d-hLEWX2X7z5GqhJxT9rGFg/view?usp=drive_link"
+   class="btn btn-warning"
+   download>
+   <i class="bi bi-download me-2"></i>
+   Download Now
+</a>
+            </td></tr>
+
+            <tr><td>Biology</td><td>
+                                       <a href="https://drive.google.com/file/d/1Tjdw7d1kOp4un_BPCYh7zGKxGaY_BBVJ/view?usp=drive_link"
+   class="btn btn-outline-dark"
+   download>
+   <i class="bi bi-download me-2"></i>
+   Download Now
+</a>
+            </td></tr>
+
+            <tr><td>Chemistry</td><td>Coming Soon</td></tr>
+
+            <tr><td>Mathematics</td><td>Coming soon</td></tr>
+
+            <tr><td>Urdu</td><td>Coming Soon</td></tr>
+
+            <tr><td>English</td><td>Soming Soon</td></tr>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+<!-- main content ends here -->
     <!-- =========================
          FOOTER
     ========================== -->

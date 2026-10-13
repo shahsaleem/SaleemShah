@@ -1,0 +1,137 @@
+  .sa-table-wrapper {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #ffffff;
+      border-radius: 18px;
+      box-shadow: 0 8px 30px rgba(37, 99, 235, 0.12);
+    }
+
+    .sa-colourful-table {
+      border-collapse: separate;
+      border-spacing: 0 8px;
+      margin-bottom: 0;
+    }
+
+    .sa-colourful-table thead th {
+      background: linear-gradient(135deg, #2563eb, #7c3aed);
+      color: #ffffff;
+      padding: 17px;
+      border: none;
+      font-size: 16px;
+    }
+
+    .sa-colourful-table thead th:first-child {
+      border-radius: 12px 0 0 12px;
+      width: 25%;
+    }
+
+    .sa-colourful-table thead th:last-child {
+      border-radius: 0 12px 12px 0;
+    }
+
+    .sa-colourful-table tbody td {
+      padding: 15px 17px;
+      border: none;
+      color: #24324a;
+      font-weight: 500;
+      vertical-align: middle;
+      transition: all 0.25s ease;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(1) td {
+      background: #eff6ff;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(2) td {
+      background: #f5f3ff;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(3) td {
+      background: #ecfdf5;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(4) td {
+      background: #fff7ed;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(5) td {
+      background: #fdf2f8;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(6) td {
+      background: #ecfeff;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(7) td {
+      background: #fefce8;
+    }
+
+    .sa-colourful-table tbody tr:nth-child(8) td {
+      background: #f0fdf4;
+    }
+
+    .sa-colourful-table tbody td:first-child {
+      border-radius: 10px 0 0 10px;
+      color: #2563eb;
+      font-weight: 700;
+    }
+
+    .sa-colourful-table tbody td:last-child {
+      border-radius: 0 10px 10px 0;
+    }
+
+    .sa-colourful-table tbody tr:hover td {
+      background: #dbeafe;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.08);
+    }
+
+    @media (max-width: 576px) {
+      .sa-table-wrapper {
+        margin: 20px auto;
+        padding: 12px;
+      }
+
+      .sa-colourful-table thead th,
+      .sa-colourful-table tbody td {
+        padding: 12px 10px;
+        font-size: 14px;
+      }
+    }
+ 
+
+<body class="bg-light">
+
+  <div class="container">
+    <div class="sa-table-wrapper">
+      <h4 class="text-center fw-bold mb-4"
+          style="color: #4338ca;">
+        Educational Resources
+      </h4>
+
+      <div class="table-responsive">
+        <table class="table sa-colourful-table">
+          <thead>
+            <tr>
+              <th scope="col">S.No.</th>
+              <th scope="col">Resource Name</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr><td>01</td><td>Home</td></tr>
+            <tr><td>02</td><td>Books</td></tr>
+            <tr><td>03</td><td>Notes</td></tr>
+            <tr><td>04</td><td>Past Papers</td></tr>
+            <tr><td>05</td><td>Paper Schemes</td></tr>
+            <tr><td>06</td><td>English Grammar</td></tr>
+            <tr><td>07</td><td>Model Papers</td></tr>
+            <tr><td>08</td><td>Contact Us</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+</body>
