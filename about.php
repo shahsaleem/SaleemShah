@@ -144,7 +144,18 @@
             </div>
         </div>
     </div>
-
+<!-- ads of adestra code starts here -->
+<script>
+  atOptions = {
+    'key' : 'dc2f0e4fa8aafa08a8360d57c42ad5cd',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/dc2f0e4fa8aafa08a8360d57c42ad5cd/invoke.js"></script>
+<!-- adestra code ends here -->
     <!-- =========================
          FOOTER
     ========================== -->
