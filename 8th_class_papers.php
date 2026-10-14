@@ -21,7 +21,7 @@
 <meta property="og:url" content="https://www.saleemacademy.com/8th_class_papers">
 <meta property="og:title" content="8th Class Exam Papers & Solved Model Papers PDF | Saleem Academy">
 <meta property="og:description" content="Prepare for 8th class exams with solved past papers, PEC/SBA assessment papers, and term test sheets in PDF.">
-<meta property="og:image" content="https://www.saleemacademy.com/uploads/8th_class_papers.jpg">
+<meta property="og:image" content="./uploads/8th_class_papers.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
@@ -30,7 +30,7 @@
 <meta name="twitter:url" content="https://www.saleemacademy.com/8th_class_papers">
 <meta name="twitter:title" content="8th Class Exam Papers & Solved Model Papers PDF | Saleem Academy">
 <meta name="twitter:description" content="Download free 8th class exam papers, PEC model papers, and SBA test papers in PDF.">
-<meta name="twitter:image" content="https://www.saleemacademy.com/uploads/8th_class_papers.jpg">
+<meta name="twitter:image" content="./uploads/8th_class_papers.jpg">
 
     <!-- meta tags ends here -->
 
