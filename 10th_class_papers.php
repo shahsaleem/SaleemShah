@@ -7,9 +7,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saleem Academy</title>
     <!-- meta tags ends here -->
+<title>10th Class Past Papers & Guess Papers (All Boards PDF) | Saleem Academy</title>
+<meta name="title" content="10th Class Past Papers & Guess Papers (All Boards PDF) | Saleem Academy">
+<meta name="description" content="Download free 10th class past papers, solved model papers, and high-scoring guess papers in PDF for all BISE boards. Prepare smartly with Saleem Academy!">
+<meta name="keywords" content="10th class past papers, 10th class solved papers pdf, matric part 2 past papers, 10th class guess papers, BISE 10th class model papers,10th All Subjects Papers, Chapterwise 10th class papers, Full book papers 10th class, 
+Math papers 10th class, 10th class pakstudies chapterwise papers, 10th chemistry chapterwise papers, 10th class english papers, 10th class tarjma quran papers ,10th class physics papers, 10th class biology papers, 10th class board papers pdf, Saleem Academy">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.saleemacademy.com/10th_class_papers">
 
+<!-- Open Graph / Facebook / WhatsApp -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Saleem Academy">
+<meta property="og:url" content="https://www.saleemacademy.com/10th_class_papers">
+<meta property="og:title" content="10th Class Solved Past Papers & Model Papers PDF | Saleem Academy">
+<meta property="og:description" content="Get instant access to 5-year solved past papers, board model papers, and exam guess papers for 10th Class (All Subjects).">
+<meta property="og:image" content="https://www.saleemacademy.com/uploads/10th_class_papers.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://www.saleemacademy.com/10th_class_papers">
+<meta name="twitter:title" content="10th Class Solved Past Papers & Model Papers PDF | Saleem Academy">
+<meta name="twitter:description" content="Download free 10th class past papers, solved model papers, and guess papers in PDF for all boards.">
+<meta name="twitter:image" content="https://www.saleemacademy.com/uploads/10th_class_papers.jpg">
 
     <!-- favicon -->
     <link rel="shortcut icon" href="./includes/favicon.png" type="image/x-icon">

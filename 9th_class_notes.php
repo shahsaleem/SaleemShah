@@ -7,12 +7,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>9th Class English Notes PDF | Punjab Board | Saleem Academy</title>
+   <!-- meta tags starts here -->
+<!-- Primary Meta Tags -->
+<title>9th Class Notes All Subjects PDF (Free Key Books & Guides) | Saleem Academy</title>
+<meta name="title" content="9th Class Notes All Subjects PDF (Free Key Books & Guides) | Saleem Academy">
+<meta name="description" content="Get free 9th class notes for all subjects in PDF. Chapter-wise solved exercises, numericals, important MCQs, and short questions for top board exam marks.">
+<meta name="keywords" content="9th class notes pdf, 9th class key books free download, matric part 1 notes, 9th class physics numericals solved, 9th biology notes, 9th chemistry notes pdf, Saleem Academy">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.saleemacademy.com/9th_class_notes">
 
-<meta name="description" content="Download 9th Class All Notes PDF for Punjab Board. Get chapter-wise notes, questions and answers, summaries, grammar, essays, letters, applications, translations, MCQs, and exam preparation material for Class 9 English.">
+<!-- Open Graph / Facebook / WhatsApp -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Saleem Academy">
+<meta property="og:url" content="https://www.saleemacademy.com/9th_class_notes">
+<meta property="og:title" content="9th Class Notes All Subjects (Free PDF Download) | Saleem Academy">
+<meta property="og:description" content="Download chapter-wise 9th class study notes, solved exercises, and key books for Science and Arts subjects.">
+<meta property="og:image" content="https://www.saleemacademy.com/uploads/9th_class_notes.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 
-<meta name="keywords" content="9th Class English Notes, Class 9 English Notes PDF, 9th English Notes Punjab Board, 9th Class English Book Notes, 9th Class English Chapter Wise Notes, 9th English Questions and Answers, 9th Class English Summaries, 9th Class English Grammar, 9th Class English MCQs, 9th Class English Translation, 9th Class English Essays, 9th Class English Letters, 9th Class English Applications, 9th Class English Solved Exercises, 9th Class English Important Questions, 9th English Exam Preparation, Punjab Board Class 9 English Notes, 9th Class English PDF Download, Matric Part 1 English Notes, Saleem Academy">
-    <!-- meta tags ends here -->
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://www.saleemacademy.com/9th_class_notes">
+<meta name="twitter:title" content="9th Class Notes All Subjects (Free PDF Download) | Saleem Academy">
+<meta name="twitter:description" content="Get free 9th class notes for all subjects in PDF with solved exercises, numericals, and MCQs.">
+<meta name="twitter:image" content="https://www.saleemacademy.com/uploads/9th_class_notes.jpg">
+
+<!-- meta tags ends here -->
 
 
     <!-- favicon -->

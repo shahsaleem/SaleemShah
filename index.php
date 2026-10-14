@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Primary SEO Meta Tags -->
-<title>Saleem Academy | Class 9th & 10th Notes, Books, Papers & Study Helping content</title>
+<title>Saleem Academy | Enhance your studies by Online Lectures, Notes, Books, Papers & Education related Helping content for middle and matric classes.</title>
 
 <meta name="description" content="Saleem Academy provides free 9th and 10th class notes, textbooks, past papers, paper schemes, exam preparation resources, and online tuition for Pakistani students.">
 
@@ -44,6 +44,7 @@
 <!-- Optional Browser and Mobile Metadata -->
 <meta name="application-name" content="Saleem Academy">
     <!-- meta tags ends here -->
+
     <!-- favicon -->
     <link rel="shortcut icon" href="./includes/logo.png" type="image/x-icon">
     <!-- urdu fonts -->
