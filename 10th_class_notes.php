@@ -14,24 +14,24 @@
 <meta name="description" content="Download easy, comprehensive 10th class notes for all subjects in PDF (English & Urdu Medium). Includes solved exercises, MCQs, short & long questions.">
 <meta name="keywords" content="10th class notes pdf, matric part 2 notes,10th class english notes, 10th class essay Notes, 10th class narration notes, Direct and Indirect Notes, 10th class all subjects notes, 10th physics notes, 10th chemistry notes, 10th biology notes, 10th math solved exercises, Saleem Academy">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.saleemacademy.com/10th_class_notes">
+<link rel="canonical" href="https://saleemacademy.com/10th_class_notes">
 
 <!-- Open Graph / Facebook / WhatsApp -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Saleem Academy">
-<meta property="og:url" content="https://www.saleemacademy.com/10th_class_notes">
+<meta property="og:url" content="https://saleemacademy.com/10th_class_notes">
 <meta property="og:title" content="10th Class Complete Notes (All Subjects PDF) | Saleem Academy">
 <meta property="og:description" content="Score A+ marks with chapter-wise 10th class notes, solved textbook exercises, MCQs, and key books in free PDF format.">
-<meta property="og:image" content="https://www.saleemacademy.com/uploads/10th_class_notes.jpg">
+<meta property="og:image" content="https://saleemacademy.com/uploads/10th_class_notes.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://www.saleemacademy.com/10th_class_notes">
+<meta name="twitter:url" content="https://saleemacademy.com/10th_class_notes">
 <meta name="twitter:title" content="10th Class Complete Notes (All Subjects PDF) | Saleem Academy">
 <meta name="twitter:description" content="Download chapter-wise 10th class notes, solved exercises, MCQs, and short questions for all subjects.">
-<meta name="twitter:image" content="https://www.saleemacademy.com/uploads/10th_class_notes.jpg">
+<meta name="twitter:image" content="https://saleemacademy.com/uploads/10th_class_notes.jpg">
 
 
     <!-- meta tags ends here -->

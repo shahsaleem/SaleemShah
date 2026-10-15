@@ -13,24 +13,24 @@
 <meta name="description" content="Ace your first board exams! Download free 9th class past papers, solved MCQs, chapter-wise test papers, and guess papers in PDF from Saleem Academy.">
 <meta name="keywords" content="9th class past papers, 9th physics papers, 9th class math papers, 9th class chemistry papers, 9th class Islamiat papers, 9th class english papers, 9th class guess papers pdf, matric part 1 past papers, 9th class solved papers, 9th class chapter wise test papers, BISE 9th papers, Saleem Academy">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.saleemacademy.com/9th_class_papers">
+<link rel="canonical" href="https://saleemacademy.com/9th_class_papers">
 
 <!-- Open Graph / Facebook / WhatsApp -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Saleem Academy">
-<meta property="og:url" content="https://www.saleemacademy.com/9th_class_papers">
+<meta property="og:url" content="https://saleemacademy.com/9th_class_papers">
 <meta property="og:title" content="9th Class Solved Past Papers & Guess Papers PDF | Saleem Academy">
 <meta property="og:description" content="100% exam preparation with free 9th class solved past papers, model papers, and high-yield guess papers for all subjects.">
-<meta property="og:image" content="https://www.saleemacademy.com/uploads/9th_class_papers.jpg">
+<meta property="og:image" content="https://saleemacademy.com/uploads/9th_class_papers.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://www.saleemacademy.com/9th_class_papers">
+<meta name="twitter:url" content="https://saleemacademy.com/9th_class_papers">
 <meta name="twitter:title" content="9th Class Solved Past Papers & Guess Papers PDF | Saleem Academy">
 <meta name="twitter:description" content="Download free 9th class past papers, solved MCQs, and guess papers in PDF for all BISE boards.">
-<meta name="twitter:image" content="https://www.saleemacademy.com/uploads/9th_class_papers.jpg">
+<meta name="twitter:image" content="https://saleemacademy.com/uploads/9th_class_papers.jpg">
 
     <!-- meta tags ends here -->
 

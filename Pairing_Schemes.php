@@ -14,24 +14,24 @@
 <meta name="description" content="Download the latest official board pairing scheme and paper pattern for 9th and 10th class in PDF. Check chapter-wise weightage and marks distribution now!">
 <meta name="keywords" content="pairing scheme, Multan Boards pairing scheme 2026-27, Bahawalpur board pairing scheme, Punjab boards paper scheme, 9th class pairing scheme, 10th class pairing scheme, matric paper scheme pdf, assessment scheme all boards, BISE paper pattern, Saleem Academy">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.saleemacademy.com/Pairing_schemes">
+<link rel="canonical" href="https://saleemacademy.com/Pairing_schemes">
 
 <!-- Open Graph / Facebook / WhatsApp -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Saleem Academy">
-<meta property="og:url" content="https://www.saleemacademy.com/Pairing_Schemes">
+<meta property="og:url" content="https://saleemacademy.com/Pairing_Schemes">
 <meta property="og:title" content="Updated Board Pairing Scheme & Paper Pattern PDF | Saleem Academy">
 <meta property="og:description" content="Study smart for your board exams! View and download the latest subject-wise pairing schemes and marks distribution in PDF.">
-<meta property="og:image" content="https://www.saleemacademy.com/uploads/paper_scheme.jpg">
+<meta property="og:image" content="https://saleemacademy.com/uploads/paper_scheme.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://www.saleemacademy.com/Pairing-Schemes">
+<meta name="twitter:url" content="https://saleemacademy.com/Pairing-Schemes">
 <meta name="twitter:title" content="Updated Board Pairing Scheme & Paper Pattern PDF | Saleem Academy">
 <meta name="twitter:description" content="Download the latest official board pairing scheme and paper pattern for 9th and 10th class in PDF.">
-<meta name="twitter:image" content="https://www.saleemacademy.com/images/uploads/paper_scheme.jpg">
+<meta name="twitter:image" content="https://saleemacademy.com/images/uploads/paper_scheme.jpg">
     <!-- meta tags ends here -->
 
 

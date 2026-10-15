@@ -14,24 +14,24 @@
 <meta name="description" content="Get free 9th class notes for all subjects in PDF. Chapter-wise solved exercises, numericals, important MCQs, and short questions for top board exam marks.">
 <meta name="keywords" content="9th class notes pdf, 9th class key books free download, matric part 1 notes, 9th class physics numericals solved, 9th biology notes, 9th chemistry notes pdf, Saleem Academy">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.saleemacademy.com/9th_class_notes">
+<link rel="canonical" href="https://saleemacademy.com/9th_class_notes">
 
 <!-- Open Graph / Facebook / WhatsApp -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Saleem Academy">
-<meta property="og:url" content="https://www.saleemacademy.com/9th_class_notes">
+<meta property="og:url" content="https://saleemacademy.com/9th_class_notes">
 <meta property="og:title" content="9th Class Notes All Subjects (Free PDF Download) | Saleem Academy">
 <meta property="og:description" content="Download chapter-wise 9th class study notes, solved exercises, and key books for Science and Arts subjects.">
-<meta property="og:image" content="https://www.saleemacademy.com/uploads/9th_class_notes.jpg">
+<meta property="og:image" content="https://saleemacademy.com/uploads/9th_class_notes.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://www.saleemacademy.com/9th_class_notes">
+<meta name="twitter:url" content="https://saleemacademy.com/9th_class_notes">
 <meta name="twitter:title" content="9th Class Notes All Subjects (Free PDF Download) | Saleem Academy">
 <meta name="twitter:description" content="Get free 9th class notes for all subjects in PDF with solved exercises, numericals, and MCQs.">
-<meta name="twitter:image" content="https://www.saleemacademy.com/uploads/9th_class_notes.jpg">
+<meta name="twitter:image" content="https://saleemacademy.com/uploads/9th_class_notes.jpg">
 
 <!-- meta tags ends here -->
 
